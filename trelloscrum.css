@@ -80,3 +80,21 @@
     margin-top:1px;
 }
 /* == end b4t integration == */
+.list-card-details .cds-tag-list {
+  display: block;
+  margin: 5px 0;
+}
+
+.list-card-details .cds-tag {
+  padding: 2px 3px;
+  font-size: 10px;
+  color: white;
+  letter-spacing: 1px;
+  font-family: Verdana;
+  margin-right: 5px;
+}
+
+.list-card-details .cds-tag.green {
+  background: #81b251;
+  border: 1px solid #608C35;
+}
